@@ -1,0 +1,12 @@
+.padding {
+	padding: 0;
+}
+
+.margin {
+	margin: 0;
+}
+
+.center {
+	padding-top: 4px;
+	padding-bottom: 4px;
+}
