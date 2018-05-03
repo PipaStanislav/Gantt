@@ -30,32 +30,6 @@
          "title": "Task#3",
          "estimate": 1,
          "priority": 2
-      },
-
-
-      {
-         "id": 6,
-         "title": "Task#6",
-         "estimate": 6,
-         "priority": 6
-      },
-      {
-         "id": 7,
-         "title": "Task#7",
-         "estimate": 15,
-         "priority": 2
-      },
-      {
-         "id": 9,
-         "title": "Task#9",
-         "estimate": 6,
-         "priority": 2
-      },
-      {
-         "id": 8,
-         "title": "Task#8",
-         "estimate": 7,
-         "priority": 3
       }
    ]
 }
